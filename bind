@@ -1,0 +1,13 @@
+Request for Creation of BIND User and Read-Only Access to LDAP for Apache Airflow Integration
+
+Dear [Server Owner's Name],
+
+I hope this message finds you well.
+
+We are currently logging into Apache Airflow using local usernames and passwords. To enhance security and streamline authentication, we intend to integrate Apache Airflow with LDAP. For this purpose, we require the creation of a new BIND user specifically for Apache Airflow, with read-only access to the LDAP directory.
+
+I kindly request your approval for the creation of this BIND user and the necessary read-only access permissions to proceed with the integration. This will allow us to securely authenticate users through LDAP while maintaining the integrity of our current infrastructure.
+
+Please let me know if any additional information is needed or if there are specific protocols we should follow during this process.
+
+Thank you for considering this request.
